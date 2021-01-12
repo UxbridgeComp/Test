@@ -1,0 +1,1373 @@
+fileFormatVersion: 2
+guid: 7f101a9dffd1a0245824f75bd40ff12c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 990368110165699347
+    second: Tile set 8 bit 2_0
+  - first:
+      213: 1390096151960836670
+    second: Tile set 8 bit 2_1
+  - first:
+      213: -9090822390372725152
+    second: Tile set 8 bit 2_2
+  - first:
+      213: 2336904995541753334
+    second: Tile set 8 bit 2_3
+  - first:
+      213: 5021168354500177332
+    second: Tile set 8 bit 2_4
+  - first:
+      213: -2880464419208225522
+    second: Tile set 8 bit 2_5
+  - first:
+      213: 85112549310921778
+    second: Tile set 8 bit 2_6
+  - first:
+      213: 2089799256060181728
+    second: Tile set 8 bit 2_7
+  - first:
+      213: 4664986069940206057
+    second: Tile set 8 bit 2_8
+  - first:
+      213: 3719680280410997890
+    second: Tile set 8 bit 2_9
+  - first:
+      213: 9078674882814981215
+    second: Tile set 8 bit 2_10
+  - first:
+      213: 6257092778243834513
+    second: Tile set 8 bit 2_11
+  - first:
+      213: 3573418334294918560
+    second: Tile set 8 bit 2_12
+  - first:
+      213: 8616016459513375317
+    second: Tile set 8 bit 2_13
+  - first:
+      213: 8291524784637396226
+    second: Tile set 8 bit 2_14
+  - first:
+      213: -1384438128700813716
+    second: Tile set 8 bit 2_15
+  - first:
+      213: -2765648906659918176
+    second: Tile set 8 bit 2_16
+  - first:
+      213: 2731675610592556990
+    second: Tile set 8 bit 2_17
+  - first:
+      213: 2338718571497443351
+    second: Tile set 8 bit 2_18
+  - first:
+      213: 7846563028430650973
+    second: Tile set 8 bit 2_19
+  - first:
+      213: -3454275065734484221
+    second: Tile set 8 bit 2_20
+  - first:
+      213: -4071466711053436236
+    second: Tile set 8 bit 2_21
+  - first:
+      213: -2985756593432330712
+    second: Tile set 8 bit 2_22
+  - first:
+      213: 6776105274026480243
+    second: Tile set 8 bit 2_23
+  - first:
+      213: -491396367828506116
+    second: Tile set 8 bit 2_24
+  - first:
+      213: -2721803297443876448
+    second: Tile set 8 bit 2_25
+  - first:
+      213: -7953360188300568230
+    second: Tile set 8 bit 2_26
+  - first:
+      213: 807937209429116793
+    second: Tile set 8 bit 2_27
+  - first:
+      213: 3458464946755542850
+    second: Tile set 8 bit 2_28
+  - first:
+      213: 6704391317014055503
+    second: Tile set 8 bit 2_29
+  - first:
+      213: 4002891428203628024
+    second: Tile set 8 bit 2_30
+  - first:
+      213: 4160431887458051120
+    second: Tile set 8 bit 2_31
+  - first:
+      213: -3014305213068572983
+    second: Tile set 8 bit 2_32
+  - first:
+      213: 1517373914183123443
+    second: Tile set 8 bit 2_33
+  - first:
+      213: -8466923195961015736
+    second: Tile set 8 bit 2_34
+  - first:
+      213: -3315752761512992920
+    second: Tile set 8 bit 2_35
+  - first:
+      213: 8645959347401718714
+    second: Tile set 8 bit 2_36
+  - first:
+      213: -3398170034709505143
+    second: Tile set 8 bit 2_37
+  - first:
+      213: -2560909737253196734
+    second: Tile set 8 bit 2_38
+  - first:
+      213: -4762972826877408594
+    second: Tile set 8 bit 2_39
+  - first:
+      213: 7246703345159983264
+    second: Tile set 8 bit 2_40
+  - first:
+      213: 2682940420999077002
+    second: Tile set 8 bit 2_41
+  - first:
+      213: -4419872897398486939
+    second: Tile set 8 bit 2_42
+  - first:
+      213: -8008076596901143103
+    second: Tile set 8 bit 2_43
+  - first:
+      213: 3715155373205554676
+    second: Tile set 8 bit 2_44
+  - first:
+      213: -6949262513837441757
+    second: Tile set 8 bit 2_45
+  - first:
+      213: -6067237169965052559
+    second: Tile set 8 bit 2_46
+  - first:
+      213: 8972322504321050003
+    second: Tile set 8 bit 2_0
+  - first:
+      213: -838763126635409435
+    second: Tile set 8 bit 2_1
+  - first:
+      213: 9108977653831135024
+    second: Tile set 8 bit 2_2
+  - first:
+      213: 2293809016753128612
+    second: Tile set 8 bit 2_3
+  - first:
+      213: 3580403595594390093
+    second: Tile set 8 bit 2_4
+  - first:
+      213: 410759855345155068
+    second: Tile set 8 bit 2_5
+  - first:
+      213: -4403116863044826736
+    second: Tile set 8 bit 2_6
+  - first:
+      213: -8352014825529709922
+    second: Tile set 8 bit 2_7
+  - first:
+      213: 1117911230456860256
+    second: Tile set 8 bit 2_8
+  - first:
+      213: -6727095285793173633
+    second: Tile set 8 bit 2_9
+  - first:
+      213: 1726463215100919516
+    second: Tile set 8 bit 2_10
+  - first:
+      213: 9207156086941785037
+    second: Tile set 8 bit 2_11
+  - first:
+      213: -2870372615402022467
+    second: Tile set 8 bit 2_12
+  - first:
+      213: -6181048541165799084
+    second: Tile set 8 bit 2_13
+  - first:
+      213: 4028549786017850607
+    second: Tile set 8 bit 2_14
+  - first:
+      213: 4522428798193958556
+    second: Tile set 8 bit 2_15
+  - first:
+      213: -860717386722274545
+    second: Tile set 8 bit 2_16
+  - first:
+      213: 4562573539473092258
+    second: Tile set 8 bit 2_17
+  - first:
+      213: -2769785573436961377
+    second: Tile set 8 bit 2_18
+  - first:
+      213: 5570035447641617142
+    second: Tile set 8 bit 2_19
+  - first:
+      213: 1456089342363068548
+    second: Tile set 8 bit 2_20
+  - first:
+      213: 3219597048496258305
+    second: Tile set 8 bit 2_21
+  - first:
+      213: 8212767640961604106
+    second: Tile set 8 bit 2_22
+  - first:
+      213: -6189601943131449119
+    second: Tile set 8 bit 2_23
+  - first:
+      213: -8915192195722690601
+    second: Tile set 8 bit 2_24
+  - first:
+      213: -4420581818028406812
+    second: Tile set 8 bit 2_25
+  - first:
+      213: 9054230568650828919
+    second: Tile set 8 bit 2_26
+  - first:
+      213: -1988703558084388979
+    second: Tile set 8 bit 2_27
+  - first:
+      213: -2757383223637215579
+    second: Tile set 8 bit 2_28
+  - first:
+      213: -8251674543317157462
+    second: Tile set 8 bit 2_29
+  - first:
+      213: -2519431672851724138
+    second: Tile set 8 bit 2_30
+  - first:
+      213: -3623741387804286190
+    second: Tile set 8 bit 2_31
+  - first:
+      213: 8231518922841417881
+    second: Tile set 8 bit 2_32
+  - first:
+      213: -5391229248495691804
+    second: Tile set 8 bit 2_33
+  - first:
+      213: -8759266690828856704
+    second: Tile set 8 bit 2_34
+  - first:
+      213: 2631549893436206550
+    second: Tile set 8 bit 2_35
+  - first:
+      213: -2095907834449327065
+    second: Tile set 8 bit 2_36
+  - first:
+      213: -1693678664091074216
+    second: Tile set 8 bit 2_37
+  - first:
+      213: 2961879908081130085
+    second: Tile set 8 bit 2_38
+  - first:
+      213: -3507352793983727212
+    second: Tile set 8 bit 2_39
+  - first:
+      213: 2316760173476511912
+    second: Tile set 8 bit 2_40
+  - first:
+      213: 2694534441738955321
+    second: Tile set 8 bit 2_41
+  - first:
+      213: 6674955744219644281
+    second: Tile set 8 bit 2_42
+  - first:
+      213: -6816676459355683811
+    second: Tile set 8 bit 2_43
+  - first:
+      213: 5473046512176355553
+    second: Tile set 8 bit 2_44
+  - first:
+      213: 3588848596705101433
+    second: Tile set 8 bit 2_45
+  - first:
+      213: -3166901608622855293
+    second: Tile set 8 bit 2_46
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tile set 8 bit 2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395ac40c7c7148c70800000000000000
+      internalID: 8972322504321050003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set 8 bit 2_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef433a516d1c54f0800000000000000
+      internalID: -838763126635409435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set 8 bit 2_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f639b2ae6996e70800000000000000
+      internalID: 9108977653831135024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set 8 bit 2_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4882ac52f35df10800000000000000
+      internalID: 2293809016753128612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set 8 bit 2_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a5fe3b91620b130800000000000000
+      internalID: 3580403595594390093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set 8 bit 2_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbb6d189ef43b500800000000000000
+      internalID: 410759855345155068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set 8 bit 2_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0994ea1ba8cf4e2c0800000000000000
+      internalID: -4403116863044826736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set 8 bit 2_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a618d54cea71c80800000000000000
+      internalID: -8352014825529709922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set 8 bit 2_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e0dc5575e938f00800000000000000
+      internalID: 1117911230456860256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set 8 bit 2_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fc710ba7e84a2a0800000000000000
+      internalID: -6727095285793173633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set 8 bit 2_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde7edd9521a5f710800000000000000
+      internalID: 1726463215100919516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set 8 bit 2_11
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb9db1fda366cf70800000000000000
+      internalID: 9207156086941785037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set 8 bit 2_12
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db914fd60536a28d0800000000000000
+      internalID: -2870372615402022467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set 8 bit 2_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459bd54b911883aa0800000000000000
+      internalID: -6181048541165799084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set 8 bit 2_14
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4e19bafa848e730800000000000000
+      internalID: 4028549786017850607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set 8 bit 2_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ef856f705e2ce30800000000000000
+      internalID: 4522428798193958556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set 8 bit 2_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f039a68d81e1e04f0800000000000000
+      internalID: -860717386722274545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set 8 bit 2_17
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aee3e9e574815f30800000000000000
+      internalID: 4562573539473092258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set 8 bit 2_18
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9dc94722bebf89d0800000000000000
+      internalID: -2769785573436961377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set 8 bit 2_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f233037abdbc4d40800000000000000
+      internalID: 5570035447641617142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set 8 bit 2_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48868ccca81153410800000000000000
+      internalID: 1456089342363068548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set 8 bit 2_21
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10df38b157e4eac20800000000000000
+      internalID: 3219597048496258305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set 8 bit 2_22
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ad65608ac99f170800000000000000
+      internalID: 8212767640961604106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set 8 bit 2_23
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8159e93dd1a1aa0800000000000000
+      internalID: -6189601943131449119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set 8 bit 2_24
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df3d95ceefd64480800000000000000
+      internalID: -8915192195722690601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set 8 bit 2_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7cddbf140f6a2c0800000000000000
+      internalID: -4420581818028406812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set 8 bit 2_26
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c6ae61bb617ad70800000000000000
+      internalID: 9054230568650828919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set 8 bit 2_27
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8713d886a4b664e0800000000000000
+      internalID: -1988703558084388979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set 8 bit 2_28
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a67b7d319ecbb9d0800000000000000
+      internalID: -2757383223637215579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set 8 bit 2_29
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9727bd8b92c7d80800000000000000
+      internalID: -8251674543317157462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set 8 bit 2_30
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6980ec7fd3e290dd0800000000000000
+      internalID: -2519431672851724138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set 8 bit 2_31
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2136b0e3862e5bdc0800000000000000
+      internalID: -3623741387804286190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set 8 bit 2_32
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9986edd09da3c3270800000000000000
+      internalID: 8231518922841417881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set 8 bit 2_33
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7d7bcff818e25b0800000000000000
+      internalID: -5391229248495691804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set 8 bit 2_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0821c307a55d07680800000000000000
+      internalID: -8759266690828856704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set 8 bit 2_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd6bfe7fa4258420800000000000000
+      internalID: 2631549893436206550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set 8 bit 2_36
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c80bddde6d9e2e0800000000000000
+      internalID: -2095907834449327065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set 8 bit 2_37
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851813f7a38de78e0800000000000000
+      internalID: -1693678664091074216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set 8 bit 2_38
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ada8c6516ba1920800000000000000
+      internalID: 2961879908081130085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set 8 bit 2_39
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49940a47731635fc0800000000000000
+      internalID: -3507352793983727212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set 8 bit 2_40
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a007d16a19c62020800000000000000
+      internalID: 2316760173476511912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set 8 bit 2_41
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ae7ea6cc8e46520800000000000000
+      internalID: 2694534441738955321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set 8 bit 2_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9714aa942e432ac50800000000000000
+      internalID: 6674955744219644281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set 8 bit 2_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14465360ec4661a0800000000000000
+      internalID: -6816676459355683811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set 8 bit 2_44
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8567d2eca24fb40800000000000000
+      internalID: 5473046512176355553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set 8 bit 2_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976444fb8c62ec130800000000000000
+      internalID: 3588848596705101433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set 8 bit 2_46
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38beb6314c7ec04d0800000000000000
+      internalID: -3166901608622855293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

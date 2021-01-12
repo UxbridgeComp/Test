@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - block
+  - pickup
+  - background
+  - block_container
+  - enemy
+  - life
+  - heath
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Water2
+  - Background
+  - ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: skybox
+    uniqueID: 2609459819
+    locked: 0
+  - name: caveblock
+    uniqueID: 2476135689
+    locked: 0
+  - name: blocks
+    uniqueID: 1945732827
+    locked: 0
+  - name: player
+    uniqueID: 1088018353
+    locked: 0
+  - name: pickups
+    uniqueID: 729088115
+    locked: 0
+  - name: background
+    uniqueID: 3628374857
+    locked: 0
